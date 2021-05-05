@@ -5,3 +5,4 @@ __pycache__/
 docker-compose.yaml
 log/
 resources/products.json
+*.swp
