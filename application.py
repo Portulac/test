@@ -8,5 +8,9 @@ razrab2
 print('Hello! WOW1');
 print('Other string');
 print('Hey? hey? hey');
+<<<<<<< HEAD
 razrab1
 >>>>>>> 78323d503005fcf5e5727ed88915a84206c4f2b7
+=======
+print('add test string in new-v');
+>>>>>>> new-v
