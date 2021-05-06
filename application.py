@@ -1,8 +1,4 @@
 <<<<<<< HEAD
-111<<<<<<< HEAD
-=======
-222<<<<<<< HEAD
->>>>>>> 00dc80dd52055cddbc4b82fd08d194d95658407c
 print('Hello! WOW');
 print('Hey? hey? hey');
 print('add new string in master, new-v exist');
